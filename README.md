@@ -1,4 +1,4 @@
-![logo](https://github.com/jaykothari-lab/Jay-Kothari-/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(2).png)
+![logo](https://github.com/jaykothari-lab/jaykothari-lab/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm jay Kothari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
